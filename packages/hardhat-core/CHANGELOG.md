@@ -1,5 +1,13 @@
 # hardhat
 
+## 2.19.1
+
+### Patch Changes
+
+- 23665f399: Upgraded toolboxes versions used in project initialization
+- c52a5d653: Added logic to avoid downloading the same compiler version multiple times
+- b46ccf46d: Updated the `.gitignore` files generated during project initialization to use relative paths
+
 ## 2.19.0
 
 ### Minor Changes
